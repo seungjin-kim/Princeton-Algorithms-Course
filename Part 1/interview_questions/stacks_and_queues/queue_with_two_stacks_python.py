@@ -12,3 +12,6 @@ def Dequeue():
 			p = stack1.pop()
 			stack2.append(p)
 	return stack2.pop()
+
+
+
